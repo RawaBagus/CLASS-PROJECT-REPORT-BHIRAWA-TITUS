@@ -246,6 +246,7 @@ int seerapor() {
 			printf("=================================\n");
 		}
 	}
+	system("pause");
 }
 
 int admin() {
